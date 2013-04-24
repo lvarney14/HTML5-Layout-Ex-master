@@ -1,0 +1,34 @@
+/* 
+	Global Styling 
+	===
+	- What is getting inherited? What is not? 
+*/
+
+
+/* 
+	Main Navigation
+	===
+	- Apply styling only to main navigation with specificity
+	- Use this styling
+	
+	letter-spacing: 2px;
+	padding: 20px 20px 20px 40px;
+	text-decoration: none;
+	text-transform: uppercase;
+*/
+
+
+
+/* 
+nav a:hover {
+	background: #FF8000;
+}
+*/
+
+
+/* 
+	Feature Image
+	===
+*/
+
+
