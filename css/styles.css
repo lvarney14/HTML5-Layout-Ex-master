@@ -1,9 +1,19 @@
+
+
+
 /* 
 	Global Styling 
 	===
 	- What is getting inherited? What is not? 
 */
+body{
+	background:url(../img/bg.png);
+	font-family: "Lora", serif;
+}
 
+h1,h2,h5 {
+	font-family: "Oswald", sans-serif;
+}
 
 /* 
 	Main Navigation
