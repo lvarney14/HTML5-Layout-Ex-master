@@ -20,13 +20,19 @@ h1,h2,h5 {
 	===
 	- Apply styling only to main navigation with specificity
 	- Use this styling
+*/	
+nav li{
+	float:left;
+	list-style: none;
+	margin: 0 100px;
+	
 	
 	letter-spacing: 2px;
 	padding: 20px 20px 20px 40px;
 	text-decoration: none;
 	text-transform: uppercase;
-*/
 
+}
 
 
 /* 
